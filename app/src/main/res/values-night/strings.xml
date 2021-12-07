@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="edit_text_hint_date">Date</string>
+    <string name="edit_text_hint_location">Location</string>
+    <string name="text_add_image">ADD IMAGE</string>
+    <string name="btn_text_save">SAVE</string>
+    <string name="note_text_no_venue_found_yet">No Venue found yet. Kindly add one.</string>
+    <string name="image_content_description">image</string>
+    <string name="floating_button">Floating Button</string>
+</resources>
